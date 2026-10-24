@@ -16,4 +16,4 @@
 
 ## Cách mở
 
-Mở thư mục `CS311E_NguyenDucAnh` bằng Apache NetBeans, sau đó build và chạy dự án.
+Mở thư mục bằng Apache NetBeans, sau đó build và chạy dự án.
